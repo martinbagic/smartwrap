@@ -1,0 +1,16 @@
+[project]
+name = "smartwrap"
+version = "0.0.1"
+authors = [
+  { name="Martin Bagic", email="martin.bagic@outlook.com" },
+]
+description = "A smart text wrapper"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/pypa/smartwrap"
